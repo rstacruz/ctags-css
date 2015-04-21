@@ -15,7 +15,7 @@ CSS integration for ctags. Put these in `~/.ctags`
 --regex-css=/^[ \t]*(@mixin |= ?)([A-Za-z0-9_-]+)/\2/m,mixin,mixins/
 ```
 
-### Variant
+## Customization
 
 The above snippet only indexes classes in [rscss] convention, ie, `.two-words-or-more`—indexing more classes than that is typically sluggish and overkill. But if you like overkill solutions, use:
 
