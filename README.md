@@ -1,6 +1,6 @@
 # ctags-css
 
-CSS integration for ctags. Put these in `~/.cags`
+CSS integration for ctags. Put these in `~/.ctags`
 
 ```
 --langdef=css
